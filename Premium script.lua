@@ -1,10 +1,10 @@
 --Beemo's simple whitelist
-_G.Key = "mvAtCpu<y^q9s3nB\+S5SjW/+<5"X9E$<eHB9JMZw{qJsP@[vY"
+_G.Key = "DnjWLYtnr6bdBQEjEpkJEJhJ5ftGeMEWYnMz3EhjD8xarYRPEp"
 
 local keys = {
-    "mvAtCpu<y^q9s3nB\+S5SjW/+<5"X9E$<eHB9JMZw{qJsP@[vY",
-    "uxDh\%(%!9Y(nQXM2$#uSv88n<}^g*(m\e3{%kp_A-#>w^(<5[",
-    "LD@b3>4:XHG><F>LcAL)euNsY%6K`{5g]n~%GyfBjT%K*rTRF""
+    "xteMD933L5fFcRUrQ7EfdZwGZ3tqdrej6P7eSKXhHrhgMAaErW",
+    "CZP75sL8PustxBH5hrrJCUYH7FF7gAPeFrFBvWFqufCtx5pDSY",
+    "DnjWLYtnr6bdBQEjEpkJEJhJ5ftGeMEWYnMz3EhjD8xarYRPEp"
 }
 
 local counter = 1
